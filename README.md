@@ -1,4 +1,4 @@
-#Senior Dev Override with Grok.
+Senior Dev Override with Grok.
 
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
