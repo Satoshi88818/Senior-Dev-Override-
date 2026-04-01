@@ -1,7 +1,5 @@
-Senior Dev Override with Grok.
+#Senior Dev Override with Grok.
 
-
-# Project Name
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
